@@ -1,2 +1,3 @@
-# lecture1
-lecture 1 parctice (git merge)
+# Project 0
+
+Web Programming with Python and JavaScript
